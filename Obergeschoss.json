@@ -72,7 +72,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/turnhalle\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
