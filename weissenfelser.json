@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"begruessung_tabata.mp3"
+                 "value":"sound\/begruessung_tabata.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
