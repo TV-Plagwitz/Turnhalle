@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":24,
@@ -90,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Turnhalle\/strasse.json#start_weissenfelser"
+                 "value":"..\/Turnhalle\/plagwitz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
