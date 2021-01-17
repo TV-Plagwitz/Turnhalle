@@ -79,7 +79,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Umkleiden Weissenfelser"
+                 "value":"Weissenfelser"
                 }],
          "type":"tilelayer",
          "visible":true,
