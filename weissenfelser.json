@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Turnhalle\/plagwitz.json#exit_weissenfelser"
+                 "value":"..\/Turnhalle\/plagwitz.json#start_weissenfelser"
                 }],
          "type":"tilelayer",
          "visible":true,
