@@ -277,7 +277,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Umkleide 2"
+                 "value":"Umkleide_2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -295,7 +295,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Umkleide 1"
+                 "value":"Umkleide_1"
                 }],
          "type":"tilelayer",
          "visible":true,
