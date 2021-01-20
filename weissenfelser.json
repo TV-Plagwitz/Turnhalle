@@ -2071,6 +2071,20 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ffffff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":2924,
+         "image":"tiles\/cert_safety_set.png",
+         "imageheight":64,
+         "imagewidth":512,
+         "margin":0,
+         "name":"cert_safety_set",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
