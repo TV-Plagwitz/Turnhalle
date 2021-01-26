@@ -493,7 +493,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Turnhalle\/lauchstaedter_OG1.json#start_TH"
+                 "value":"..\/Turnhalle\/lauchstaedter_OG1.json#start_EG_TH"
                 }],
          "type":"tilelayer",
          "visible":true,
