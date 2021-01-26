@@ -2181,18 +2181,8 @@
          "transparentcolor":"#ffffff"
         }, 
         {
-         "columns":16,
          "firstgid":2336,
-         "image":"tiles\/walls.png",
-         "imageheight":2304,
-         "imagewidth":514,
-         "margin":0,
-         "name":"walls",
-         "spacing":0,
-         "tilecount":1152,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
+         "source":"tiles\/genutzte_tiles\/walls.tsx"
         }, 
         {
          "columns":16,
