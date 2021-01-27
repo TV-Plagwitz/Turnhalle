@@ -1747,20 +1747,6 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#3d3d3d"
-        }, 
-        {
-         "columns":16,
-         "firstgid":2566,
-         "image":"tiles\/walls.png",
-         "imageheight":2304,
-         "imagewidth":514,
-         "margin":0,
-         "name":"walls",
-         "spacing":0,
-         "tilecount":1152,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ffffff"
         }],
  "tilewidth":32,
  "type":"map",
