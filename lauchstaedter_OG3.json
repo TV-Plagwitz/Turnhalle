@@ -511,7 +511,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Turnhalle\/lauchstaedter_labyrinth.json#start_OG_leiter"
+                 "value":"..\/Turnhalle\/lauchstaedter_labyrinth.json#start_OG3_leiter"
                 }],
          "type":"tilelayer",
          "visible":true,
