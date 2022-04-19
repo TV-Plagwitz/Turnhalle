@@ -1255,6 +1255,30 @@
                 {
                  "animation":[
                         {
+                         "duration":300,
+                         "tileid":102
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":113
+                        }, 
+                        {
+                         "duration":150,
+                         "tileid":102
+                        }, 
+                        {
+                         "duration":220,
+                         "tileid":113
+                        }, 
+                        {
+                         "duration":50,
+                         "tileid":102
+                        }],
+                 "id":102
+                }, 
+                {
+                 "animation":[
+                        {
                          "duration":1000,
                          "tileid":102
                         }, 
